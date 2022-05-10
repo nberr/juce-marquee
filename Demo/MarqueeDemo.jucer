@@ -23,7 +23,7 @@
         <MODULEPATH id="juce_events" path="../../Developer/lib/JUCE/modules"/>
         <MODULEPATH id="juce_graphics" path="../../Developer/lib/JUCE/modules"/>
         <MODULEPATH id="juce_gui_basics" path="../../Developer/lib/JUCE/modules"/>
-        <MODULEPATH id="nberr_Marquee" path="../Module"/>
+        <MODULEPATH id="juce_Marquee" path="../Module"/>
       </MODULEPATHS>
     </XCODE_MAC>
   </EXPORTFORMATS>
@@ -33,6 +33,6 @@
     <MODULE id="juce_events" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
     <MODULE id="juce_graphics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
     <MODULE id="juce_gui_basics" showAllCode="1" useLocalCopy="0" useGlobalPath="1"/>
-    <MODULE id="nberr_Marquee" showAllCode="1" useLocalCopy="1" useGlobalPath="0"/>
+    <MODULE id="juce_Marquee" showAllCode="1" useLocalCopy="0" useGlobalPath="0"/>
   </MODULES>
 </JUCERPROJECT>

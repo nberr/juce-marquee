@@ -12,7 +12,7 @@
     #error "incorrect use of cpp file"
 #endif
 
-#include "nberr_Marquee.h"
+#include "juce_Marquee.h"
 
 //==============================================================================
 Marquee::Marquee(const juce::String& text, ScrollDirection direction, int speed, bool shouldPause)

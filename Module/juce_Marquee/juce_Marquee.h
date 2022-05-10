@@ -2,7 +2,7 @@
   ==============================================================================
     BEGIN_JUCE_MODULE_DECLARATION
 
-    ID:            nberr_Marquee
+    ID:            juce_Marquee
     vendor:        Nicholas Berriochoa
     version:       1.0.0
     name:          Marquee
